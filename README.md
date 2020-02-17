@@ -5,7 +5,7 @@ Which structures are preserved by convex relaxations?](https://arxiv.org/abs/171
 
 ## Usage:
 
-To reproduce the figures in the paper run the script `AdaptiveTest_plot.m` (with `corr_level = 0` for uncorrelated setting, and `corr_level = 0.5` for correlated setting,).
+To reproduce the figures in the paper run the script `AdaptiveTest_plot.m` (with `corr_level = 0` for uncorrelated setting, and `corr_level = 0.5` for correlated setting).
 
 To reproduce the results call the function:
 
